@@ -1,9 +1,35 @@
-- 👋 Hi
-- I’m Trupti Prabhakar Sarang
-- Currently: FYBSC CS Student at Ramnarian Ruia Autonomous College,Mumbai
+
+# Hi, I'm Trupti Prabhakar Sarang ! 👋
 
 
-<!---
-truptisarang/truptisarang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## 🚀 About Me
+Currently I am a FYBSC CS student at Ramnarian Ruia Autonomous College,Mumbai.
+
+
+
+## 💻 Skills
+Programming Languages:
+
+1)Python
+
+2)C
+
+3)Working on my skills............😊
+
+
+## Project 
+Developed a NGO management GUI based desktop application using Python and tkinter
+as part of my FY SEM1 project 
+
+Have a look at my project:
+
+[Click here](https://github.com/truptisarang/NGO-management.git)
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trupti-sarang-138240248)
+
+

@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-Currently I am a FYBSC CS student at Ramnarian Ruia Autonomous College,Mumbai.
+I am studying Computer Science at Ramnarian Ruia Autonomous College,Mumbai.
 
 
 

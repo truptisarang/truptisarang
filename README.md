@@ -30,7 +30,7 @@ as part of my FY SEM1 project
 
 Have a look at my projects:
 
-[Click here](https://github.com/truptisarang/NGO-management.git)
+[NGO managenment application](https://github.com/truptisarang/NGO-management.git)
 
 
 ## 🔗 Links

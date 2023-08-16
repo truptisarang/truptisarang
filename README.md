@@ -10,7 +10,6 @@ I am studying Computer Science at Ramnarian Ruia Autonomous College,Mumbai.
 
 
 ## 💻 Skills
-Programming Languages:
 
 1)Python
 
@@ -25,12 +24,19 @@ Programming Languages:
 6)Linux Server Administration
 
 ## Project 
-Developed a NGO management GUI based desktop application using Python and tkinter
-as part of my FY SEM1 project 
-
 Have a look at my projects:
 
+Developed a NGO management GUI based desktop application using Python and tkinter
+as part of my FY SEM1 project 
 [NGO managenment application](https://github.com/truptisarang/NGO-management.git)
+
+HTML & CSS based projects
+
+[Transparent Login Page](https://github.com/truptisarang/Login-Page-HTML-CSS.git)
+
+[Racing bike animation](https://github.com/truptisarang/html-css-racing-bike-animation.git)
+
+[Cartoon animation](https://github.com/truptisarang/HTML-CSS-cartoon-animation-.git)
 
 
 ## 🔗 Links

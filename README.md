@@ -16,14 +16,19 @@ Programming Languages:
 
 2)C
 
-3)Working on my skills............😊
+3)HTML 
 
+4)CSS
+
+5)DBMS - SQL
+
+6)Linux Server Administration
 
 ## Project 
 Developed a NGO management GUI based desktop application using Python and tkinter
 as part of my FY SEM1 project 
 
-Have a look at my project:
+Have a look at my projects:
 
 [Click here](https://github.com/truptisarang/NGO-management.git)
 

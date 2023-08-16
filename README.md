@@ -24,10 +24,10 @@ I am studying Computer Science at Ramnarian Ruia Autonomous College,Mumbai.
 6)Linux Server Administration
 
 ## Project 
-Have a look at my projects:
 
 Developed a NGO management GUI based desktop application using Python and tkinter
 as part of my FY SEM1 project 
+
 [NGO managenment application](https://github.com/truptisarang/NGO-management.git)
 
 HTML & CSS based projects

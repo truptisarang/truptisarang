@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-🎓 I am currently pursuing my Bachelor's degree in Computer Science at S.P. Mandali's Ramnarian Ruia Autonomous College, where I am honing my skills and knowledge in various areas of Computer Science.
+🎓 I am currently pursuing my Bachelor's degree in Computer Science at S.P. Mandali's Ramnarain Ruia Autonomous College, where I am honing my skills and knowledge in various areas of Computer Science.
 
 
 

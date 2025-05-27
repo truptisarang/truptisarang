@@ -11,17 +11,11 @@
 
 ## 💻 Skills
 
-1)Python
+1)MERN Stack
 
-2)C
+2)DBMS - SQL
 
-3)HTML 
-
-4)CSS
-
-5)DBMS - SQL
-
-6)Linux Server Administration
+3)Python
 
 ## Project 
 
